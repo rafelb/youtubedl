@@ -1,5 +1,4 @@
 # youtubedl
 Download audio from youtube urls using python and ffmpeg
 
-before running python file first download  ffmpeg from "https://ffmpeg.zeranoe.com/builds/" 
-and extract it into same folder as where the repo is located on you pc
+only works in windows if python 3.x.x is installed on your pc, as far as I know
