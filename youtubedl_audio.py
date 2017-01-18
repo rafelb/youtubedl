@@ -6,8 +6,6 @@
 #
 # in order to run script:
 # use pip to install youtube-dl
-# create folder in windows "D:/Downloads/MP3/"
-
 
 import youtube_dl, shutil, os, subprocess, re
 import urllib.request as ur
